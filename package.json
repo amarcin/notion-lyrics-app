@@ -18,9 +18,9 @@
     "url": "https://github.com/makenotion/notion-sdk-js/issues"
   },
   "dependencies": {
-    "@notionhq/client": "file:../..",
-    "typescript": "^5.5.4",
+    "@notionhq/client": "^2.2.15",
     "dotenv": "^16.4.5",
-    "genius-lyrics-api": "^3.2.1"
+    "genius-lyrics-api": "^3.2.1",
+    "typescript": "^5.5.4"
   }
 }
